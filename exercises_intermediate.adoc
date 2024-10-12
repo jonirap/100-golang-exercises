@@ -1,5 +1,5 @@
 = Exercises for Intermediate
-Carsten Brueggenolte <mail@cbrueggenolte.de>
+Jonathan Rapoport <joni.rapoport@gmail.com>
 v1.0.0, March 2021
 // Meta Data
 :description: Rewritten from the 100+ Python challenging programming exercises"
@@ -9,7 +9,7 @@ v1.0.0, March 2021
 :icons: font
 :source-highlighter: highlightjs
 :sectnums:
-:url-project: https://github.com/cblte/100-golang-exercises/
+:url-project: https://github.com/jonirap/100-golang-exercises/
 :url-issues: {url-project}/issues
 
 
@@ -37,10 +37,6 @@ The output of the program should be: 18,22,24
 - use `math.Sqrt` for the square root
 - use `math.Round` for rounding a float operation
 
-== Solution:
-
-link:006/exercise006.go[]
-
 
 == Exercise 007
 
@@ -57,9 +53,6 @@ Then, the output of the program should be:
 === Hints:
 Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
 
-=== Solution:
-
-link:007/exercise007.go[]
 
 == Exercise 008
 
@@ -76,10 +69,6 @@ Then, the output should be:
 === Hints:
 
 In case of input data being supplied to the question, it should be assumed to be a console input.
-
-=== Solution:
-
-link:008/exercise008.go[]
 
 
 == Exercise 009
@@ -99,10 +88,6 @@ Then, the output should be:
 
 === Hints
 In case of input data being supplied to the question, it should be assumed to be a console input.
-
-=== Solution:
-
-link:009/exercise009.go[]
 
 
 == Exercise 009
