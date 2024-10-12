@@ -23,9 +23,6 @@ Write a program which will find all such numbers which are divisible by 7 but ar
 === Hint:
 Consider using strconv and strings.Join
 
-=== Solution:
-link:001/exercise001.go[]
-
 
 == Exercise 002: Compute factorial
 
@@ -38,9 +35,6 @@ Then, the output should be: `40320`
 
 === Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
-
-=== Solution:
-link:002/exercise002.go[]
 
 == Exercise 003 : Create a map with numbers squared
 
@@ -69,9 +63,6 @@ Then, the output should be: `[34 67 55 33 12 98]`
 === Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input. package `strings` has a split method. 
 
-=== Solution:
-link:004/exercise004.go[]
-
 
 == Exercise 005 : Define a "class" (interface) which has at least two methods
 
@@ -85,6 +76,3 @@ Also create a `main.go` file that acts as calling class.
 === Hints
 - Use `bufio.NewScanner(os.Stdin)` to read in a full line of text.
 - user `go run .` to execute considering all files in the directory
-
-=== Solution:
-link:005/exercise005.go[]
